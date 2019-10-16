@@ -9,5 +9,7 @@ This module will connect to a Sain Smart Relay.
 * Added the ability to turn relays on and off
 * Added presets for 4ch, 8ch and 16ch units
 
+**V1.0.0**
+* Ready for release
+
 **To Do**
-* Marks as V1.0.0 when confirmed working by testing
