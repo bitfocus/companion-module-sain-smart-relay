@@ -1,8 +1,5 @@
 # companion-module-sain-smart-relay
-
-Provides essential control over HTTP, for more info look in HELP.md
-
-This module will connect to a Sain Smart Relay.
+See HELP.md and LICENSE
 
 **V0.0.1**
 * Initial Upload
