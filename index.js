@@ -319,7 +319,7 @@ instance.prototype.actions = function(system) {
 			break;
 	}
 
-	self.system.emit('instance_actions', self.id, {
+	self.setActions({
 
 		'relay_on': {
 			label: 'Turn Relay ON',
