@@ -1,7 +1,7 @@
 {
 	"name": "sain-smart-relay",
 	"version": "1.0.1",
-	"api_version": "0.1.2",
+	"api_version": "1.0.0",
 	"description": "Sain Smart Relay",
 	"keywords": [
 		"Relay"
